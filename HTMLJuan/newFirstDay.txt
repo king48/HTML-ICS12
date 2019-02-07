@@ -1,0 +1,5 @@
+<html> 
+<title> Practice &nbsp; &nbsp; &nbsp; First Day </title>
+<body bgcolor="6699FF">
+<FONT FACE = “ARIAL”> <FONT SIZE=+12><center> Student's Portfolio 
+<<font></font></center>
