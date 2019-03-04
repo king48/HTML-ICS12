@@ -17,6 +17,7 @@ body {
 	background-color: #ffffff;
 }
 header {
+	/*The top bar of the website blue with all navigation*/
 	/*Keeps position: fixed;the header fixed*/
 	width: 100%;
 	height: 5%;
